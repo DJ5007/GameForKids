@@ -1,0 +1,35 @@
+body {
+    font-family: "Comic Sans MS", sans-serif;
+    background: url('../img/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.cong {
+    background: rgba(35, 47, 57, 0.66);
+    padding: 40px;
+    height: 20rem;
+    width: 25rem;
+    margin: 0 auto;
+    margin-top: 30vh;
+}
+
+.cong form {
+    text-align: center;
+}
+
+form h2 {
+    font-size: 2.5rem;
+    color: #ffe100;
+}
+
+a {
+    color: #00ff4b;
+    text-decoration: none;
+    font-size: 1.6rem;
+}
+
+a:hover {
+    color: skyblue;
+}
